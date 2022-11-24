@@ -1,0 +1,26 @@
+[
+{
+  "directory": "/home/danielboll/dev/Unioeste/2022/PAA/trabalho_1_cpp",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-O3", "-std=c++20", "-Iinclude", "-I", "/home/danielboll/.xmake/packages/b/benchmark/1.6.1/d110c29709da44dcbed392ac0d0cba21/include", "-I", "/home/danielboll/.xmake/packages/g/gtest/1.12.1/77b9096bc4b34d9282f672d36b015ba9/include", "-DNDEBUG", "-o", "build/.objs/test/linux/x86_64/release/test/quick_sort.cpp.o", "test/quick_sort.cpp"],
+  "file": "test/quick_sort.cpp"
+},
+{
+  "directory": "/home/danielboll/dev/Unioeste/2022/PAA/trabalho_1_cpp",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-O3", "-std=c++20", "-Iinclude", "-I", "/home/danielboll/.xmake/packages/b/benchmark/1.6.1/d110c29709da44dcbed392ac0d0cba21/include", "-I", "/home/danielboll/.xmake/packages/g/gtest/1.12.1/77b9096bc4b34d9282f672d36b015ba9/include", "-DNDEBUG", "-o", "build/.objs/test/linux/x86_64/release/test/main.cpp.o", "test/main.cpp"],
+  "file": "test/main.cpp"
+},
+{
+  "directory": "/home/danielboll/dev/Unioeste/2022/PAA/trabalho_1_cpp",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-O3", "-std=c++20", "-Iinclude", "-I", "/home/danielboll/.xmake/packages/b/benchmark/1.6.1/d110c29709da44dcbed392ac0d0cba21/include", "-I", "/home/danielboll/.xmake/packages/g/gtest/1.12.1/77b9096bc4b34d9282f672d36b015ba9/include", "-DNDEBUG", "-o", "build/.objs/test/linux/x86_64/release/test/utils.cpp.o", "test/utils.cpp"],
+  "file": "test/utils.cpp"
+},
+{
+  "directory": "/home/danielboll/dev/Unioeste/2022/PAA/trabalho_1_cpp",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-O3", "-std=c++20", "-Iinclude", "-I", "/home/danielboll/.xmake/packages/b/benchmark/1.6.1/d110c29709da44dcbed392ac0d0cba21/include", "-I", "/home/danielboll/.xmake/packages/g/gtest/1.12.1/77b9096bc4b34d9282f672d36b015ba9/include", "-DNDEBUG", "-o", "build/.objs/test/linux/x86_64/release/test/counting_sort.cpp.o", "test/counting_sort.cpp"],
+  "file": "test/counting_sort.cpp"
+},
+{
+  "directory": "/home/danielboll/dev/Unioeste/2022/PAA/trabalho_1_cpp",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-O3", "-std=c++20", "-Iinclude", "-I", "/home/danielboll/.xmake/packages/b/benchmark/1.6.1/d110c29709da44dcbed392ac0d0cba21/include", "-I", "/home/danielboll/.xmake/packages/g/gtest/1.12.1/77b9096bc4b34d9282f672d36b015ba9/include", "-DNDEBUG", "-o", "build/.objs/bench/linux/x86_64/release/benchmark/main.cpp.o", "benchmark/main.cpp"],
+  "file": "benchmark/main.cpp"
+}]
